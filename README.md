@@ -4,8 +4,6 @@
 
 <p align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" width="50" height="50">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" width="50" height="50">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/swift/swift-original.svg" width="50" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-plain.svg" width="50" height="50">
 </p>
